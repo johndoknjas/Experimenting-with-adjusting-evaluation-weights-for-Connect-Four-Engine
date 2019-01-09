@@ -1,0 +1,474 @@
+# depslib dependency file v1.0
+1531996278 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\versus simulator\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+
+1538909914 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\versus simulator\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	"CommonNonClassData.h"
+
+1538909914 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\versus simulator\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	"CommonNonClassData.h"
+
+1531239464 c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\versus simulator\commonnonclassdata.h
+	<iostream>
+
+1538909713 source:c:\users\john\documents\00 - sfu 2017-2018\aa - spring 2018\fun coding projects\connect four\versus simulator\notes.cpp
+
+1539074135 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+
+1539073881 c:\users\johnd\documents\fun coding projects\connect four\versus simulator\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1531239464 c:\users\johnd\documents\fun coding projects\connect four\versus simulator\commonnonclassdata.h
+	<iostream>
+
+1539078333 c:\users\johnd\documents\fun coding projects\connect four\versus simulator\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1538909713 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator\notes.cpp
+
+1538909713 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 2 - oct 9, 2018\notes.cpp
+
+1539165020 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 2 - oct 9, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1539073881 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 2 - oct 9, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1531239464 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 2 - oct 9, 2018\commonnonclassdata.h
+	<iostream>
+
+1539156704 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 2 - oct 9, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1538909713 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 3 - oct 10, 2018\notes.cpp
+
+1539236503 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 3 - oct 10, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1539474682 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 3 - oct 10, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1531239464 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 3 - oct 10, 2018\commonnonclassdata.h
+	<iostream>
+
+1539474682 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 3 - oct 10, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1539236503 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 4 - oct 13, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1539512166 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 4 - oct 13, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1539480876 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 4 - oct 13, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1539512166 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 4 - oct 13, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1539480876 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 4 - oct 13, 2018\notes.cpp
+
+1539512723 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 5 - oct 14, 2018\notes.cpp
+
+1539738515 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 5 - oct 14, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+
+1539735156 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 5 - oct 14, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1539594613 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 5 - oct 14, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1539738567 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 5 - oct 14, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<time.h>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1542520800 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 6 - nov 11, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+
+1545085395 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 6 - nov 11, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1545040735 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 6 - nov 11, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1545085395 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 6 - nov 11, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1542700351 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 6 - nov 11, 2018\notes.cpp
+
+1542520800 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 7 - dec 19, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+
+1545288911 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 7 - dec 19, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1545288772 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 7 - dec 19, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1545340865 c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 7 - dec 19, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1545340966 source:c:\users\johnd\documents\fun coding projects\connect four\versus simulator - version 7 - dec 19, 2018\notes.cpp
+
+1545445181 source:c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - dec 21, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+
+1545439778 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - dec 21, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1545288772 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - dec 21, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1545440317 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - dec 21, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+
+1545439778 source:c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - dec 21, 2018\notes.cpp
+
+1546532519 source:c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+
+1546503832 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+	"tool.h"
+
+1546503660 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1546503738 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+	"tool.h"
+
+1545439778 source:c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\notes.cpp
+
+1546206487 c:\users\johnd\documents\fun coding projects\connect four\playing with evaluation parameters - version 2 - dec 29, 2018\tool.h
+
+1546532519 source:c:\users\johnd\documents\fun coding projects\copies of personal projects for github\playing with evaluation parameters - version 2 - dec 29, 2018\main.cpp
+	"EngineOne.h"
+	"EngineTwo.h"
+	"CommonNonClassData.h"
+	<iostream>
+	<vector>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	<ratio>
+	<chrono>
+
+1546503832 c:\users\johnd\documents\fun coding projects\copies of personal projects for github\playing with evaluation parameters - version 2 - dec 29, 2018\engineone.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+	"tool.h"
+
+1546503660 c:\users\johnd\documents\fun coding projects\copies of personal projects for github\playing with evaluation parameters - version 2 - dec 29, 2018\commonnonclassdata.h
+	<iostream>
+	<vector>
+
+1546206487 c:\users\johnd\documents\fun coding projects\copies of personal projects for github\playing with evaluation parameters - version 2 - dec 29, 2018\tool.h
+
+1546503738 c:\users\johnd\documents\fun coding projects\copies of personal projects for github\playing with evaluation parameters - version 2 - dec 29, 2018\enginetwo.h
+	<vector>
+	<stdexcept>
+	<memory>
+	<cstdlib>
+	<ctime>
+	<ratio>
+	<chrono>
+	<algorithm>
+	<random>
+	<climits>
+	<cmath>
+	"CommonNonClassData.h"
+	"tool.h"
+
